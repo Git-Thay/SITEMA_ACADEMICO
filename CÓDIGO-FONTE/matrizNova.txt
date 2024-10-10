@@ -1,0 +1,49 @@
+1 INF111 Introducao a Engenharia de Software 54 0 Obrigatoria
+1 MAES111 Fundamentos de Algebra e Calculo 54 0 Obrigatoria
+1 INF112 Logica e Pensamento Computacional 54 0 Obrigatoria
+1 INF113 Escrita Cientifica para Computacao 27 0 Obrigatoria
+1 LPIE111 Ingles Instrumental 27 0 Obrigatoria
+1 INF114 Engenharia de Requisitos 54 0 Obrigatoria
+2 INF121 Algoritmos e Tecnicas de Programacao I 54 INF112 Obrigatoria
+2 CSED121 Diversidade e Inclusao 27 0 Obrigatoria
+2 INF122 Analise e Projeto de Sistemas 54 INF114 Obrigatoria
+2 CSED122 Etica Tecnologia e Sociedade 27 0 Obrigatoria
+2 MAES121 Calculo I 54 MAES111 Obrigatoria
+2 INF123 Extensao Curricular I 54 0 Obrigatoria
+3 INF131 Algoritmos e Tecnicas de Programacao II 54 INF121 Obrigatoria
+3 INF132 Sistemas Operacionais 54 0 Obrigatoria
+3 MAES131 Algebra Linear 54 MAES111 Obrigatoria
+3 INF134 Banco de Dados I 54 0 Obrigatoria
+3 INF133 Extensao Curricular II 54 0 Obrigatoria
+4 INF141 Estruturas de Dados 81 INF131 Obrigatoria
+4 INF142 Programacao Orientada a Objetos I 54 INF131 Obrigatoria
+4 INF143 Banco de Dados II 54 INF134 Obrigatoria
+4 INF144 Extensao Curricular III 54 0 Obrigatoria
+4 ADM141 Administracao e Gestao Estrategica 27 0 Obrigatoria
+5 INF151 Extensao Curricular IV 54 0 Obrigatoria
+5 ADM151 Inovacao e Empreendedorismo 54 0 Obrigatoria
+5 INF152 Interface Homem-Maquina 54 0 Obrigatoria
+5 INF153 Programacao Orientada a Objetos II 54 INF142 Obrigatoria
+5 INF154 Redes de Computadores 54 0 Obrigatoria
+6 INF161 Sistemas Distribuidos 54 INF154 Obrigatoria
+6 INF162 Projeto de Pesquisa e Inovacao I 108 0 Obrigatoria
+6 CSED161 Relacoes Etnico-Raciais e Cultura Afrobrasileira e Indigena 27 0 Obrigatoria
+6 INF164 Governanca Seguranca e Auditoria de Sistemas 54 0 Obrigatoria
+6 INF165 Engenharia da Experiencia do Usuario 54 INF152 Obrigatoria
+6 INF163 Pratica de Fabrica de Software I 54 INF142 Obrigatoria
+7 INF171 Projeto de Pesquisa e Inovacao II 108 INF162 Obrigatoria
+7 INF172 Testes de Software 54 INF153 Obrigatoria
+7 INF173 Introducao a Inteligencia Artificial 54 0 Obrigatoria
+7 ADM171 Economia Criativa 27 0 Obrigatoria
+7 INF174 Qualidade de Software 27 0 Obrigatoria
+7 INF175 Pratica de Fabrica de Software II 54 INF163 Obrigatoria
+8 INF181 Extensao Curricular V 54 0 Obrigatoria
+8 INF182 Redes Moveis 54 INF154 Obrigatoria
+8 MAES181 Estatistica Descritiva 27 MAES111 Obrigatoria
+8 ADM181 Marketing Digital 27 0 Obrigatoria
+8 INF183 TCC I 54 0 Obrigatoria
+8 INF184 Pratica de Fabrica de Software III 54 INF175 Obrigatoria
+9 INF191 Software para Sistemas Ubiquos 54 INF154 Obrigatoria
+9 INF192 Extensao Curricular VI 54 0 Obrigatoria
+9 INF193 TCC II 54 INF183 Obrigatoria
+9 INF194 Arquitetura de Software 54 0 Obrigatoria

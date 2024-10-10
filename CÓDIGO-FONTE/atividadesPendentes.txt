@@ -1,0 +1,15 @@
+14
+Introducao a Engenharia de Software INF111 25/10/2024
+Fundamentos de Algebra e Calculo MAES111 25/10/2024
+Logica e Pensamento Computacional INF112 25/10/2024
+Escrita Cientifica para Computacao INF113 25/10/2024
+Ingles Instrumental LPIE111 25/10/2024
+Engenharia de Requisitos INF114 25/10/2024
+Algoritmos e Tecnicas de Programacao I INF121 25/10/2024
+Diversidade e Inclusao CSED121 25/10/2024
+Analise e Projeto de Sistemas INF122 25/10/2024
+Etica, Tecnologia e Sociedade CSED122 25/10/2024
+Calculo I MAES121 25/10/2024
+Extensao Curricular I INF123 25/10/2024
+Algoritmos e Tecnicas de Programacao II INF131 25/10/2024
+Sistemas Operacionais INF132 25/10/2024

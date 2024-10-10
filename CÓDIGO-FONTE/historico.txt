@@ -1,0 +1,15 @@
+14
+INF111 Introducao a Engenharia
+de Software 6.0 Aprovado
+MAES111 Fundamentos de Algebra
+e Calculo 6.0 Aprovado
+INF112 Logica e Pensamento
+Computacional 6.0 Aprovado INF113
+Escrita Cientifica para Computacao
+6.0 Aprovado LPIE111 Ingles
+Instrumental 6.0 Aprovado INF114
+Engenharia de Requisitos 6.0
+Aprovado INF121 Algoritmos e
+Tecnicas de Programacao I
+6.0 Aprovado CSED121 Diversidade
+x x x Reprovado
