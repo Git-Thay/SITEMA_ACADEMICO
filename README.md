@@ -1,4 +1,4 @@
-# SITEMA_ACADEMICO
+# SISTEMA_ACADEMICO
 Programa voltado para o monitoramento da vida acadêmica do aluno. 
 Apresenta cinco funcionalidades principais: 
 1) Apresentação da matriz curricular (leitura a partir de um arquivo) 
